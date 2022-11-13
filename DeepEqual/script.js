@@ -40,8 +40,8 @@ var clonedUser = {
 
 var arr2 = [];
 
-/* En la siguiente función comparamos si las propiedas son objetos sus claves y valores ya sean Array o Object para
-validar si ambos son iguales.
+/* En la siguiente función primero detectamos que tipo de objeto son obj1 y obj2 (Array o Object) y luego 
+validamos en profundo si son iguales o no.
 */
 
 function compararValores(obj1, obj2) {
