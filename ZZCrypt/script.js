@@ -1,6 +1,3 @@
-// Descifra el siguiente secreto:
-
-
 var secret =
     "': rg!qg yq,urae: ghsrf wuran shrerg jq,u'qf ra r' ,qaq' er g'q,o rg,fuwurae: m!hfua( t'usqfuq ,:apu(:m xv";
 
