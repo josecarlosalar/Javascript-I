@@ -1,5 +1,4 @@
-
-Califications
+# Califications
 
 Este código implementa una función que muestra la media de la clase de forma textual, es decir, siguiendo el sistema de calificación español:
 
