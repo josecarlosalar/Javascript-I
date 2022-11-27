@@ -1,1 +1,0 @@
-Descifra el siguiente secreto:
