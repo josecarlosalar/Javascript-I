@@ -8,7 +8,7 @@ Hacer reset, poner a undefined o null ambos resultados.
 
 Tirar los dados. 
 
-- TIP: Usa Math.random() para tiradas aleatorias.
+- TIP: Usa `Math.random()` para tiradas aleatorias.
 
 Imprimir el resultado por consola. Ten en cuenta lo siguiente:
 
